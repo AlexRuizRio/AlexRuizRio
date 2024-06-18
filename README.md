@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Alex
 
 <!--
 **AlexRuizRio/AlexRuizRio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=AlexRuizRio&theme=radical&show_icons=true&hide_border=true&count_private=true" />
+  <br>
+  <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexRuizRio&theme=radical&hide_border=true" />
+  <br>
+  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexRuizRio&theme=radical&show_icons=true&hide_border=true&layout=compact" />
+</div>
