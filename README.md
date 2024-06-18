@@ -1,4 +1,3 @@
-## Hi there 👋, I'm Alex
 
 <!--
 **AlexRuizRio/AlexRuizRio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
+  <h1 style="color:#800000;">Hi there 👋, I'm Alex</h1>
   <img width="500" src="https://github-readme-stats.vercel.app/api?username=AlexRuizRio&theme=radical&show_icons=true&hide_border=true&count_private=true" />
   <br>
   <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexRuizRio&theme=radical&hide_border=true" />
