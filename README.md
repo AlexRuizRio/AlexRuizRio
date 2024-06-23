@@ -30,15 +30,22 @@
   <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexRuizRio&theme=radical&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
+## Pinned Repositories
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/AlexRuizRio/EcommerceConBlog" style="margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexRuizRio&repo=EcommerceConBlog&theme=radical" alt="Pinned Repository 1">
+  </a>
+  <a href="https://github.com/AlexRuizRio/libft" style="margin-left: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexRuizRio&repo=libft&theme=radical" alt="Pinned Repository 2">
+  </a>
+</div>
+
+
+
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-ruiz-del-rio-082bba146)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alejandro.ruizrio@gmail.com)
-
-
-## Pinned Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexRuizRio&repo=your-repo-1&theme=radical)](https://github.com/AlexRuizRio/EcommerceConBlog) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexRuizRio&repo=your-repo-2&theme=radical)](https://github.com/AlexRuizRio/libft)
 
 ## Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=AlexRuizRio&color=red)
