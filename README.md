@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <h1 style="color:#800000;">Hi there 👋, I'm Alex</h1>
 </div>
 <br>
